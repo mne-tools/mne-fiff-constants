@@ -446,9 +446,10 @@ enum(cardinal_point_cardiac) "Cardinal point types for brain data"
 
 enum(sex) "Sex of a subject/patient"
 {
-    unknown     0    "Unknown gender"
-    male	1    "Male"
-    female	2    "Female"
+    unknown 0    "Unknown gender"
+    male    1    "Male"
+    female  2    "Female"
+    other   3    "Other"
 }
 
 
